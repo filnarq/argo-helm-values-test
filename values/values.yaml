@@ -1,5 +1,5 @@
 samplechart:
   image:
-    repository: quay.io/bitnami/nginx
+    repository: nginx
   serviceAccount:
     name: <path:kv-v2/data/demo#sa#7>
