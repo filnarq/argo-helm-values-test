@@ -16,7 +16,7 @@ serviceAccount:
   annotations: {}
   # The name of the service account to use.
   # If not set and create is true, a name is generated using the fullname template
-  name: sa-from-separate-values
+  name: <path:kv-v2/data/demo#sa#4>
 
 service:
   type: ClusterIP
