@@ -1,1 +1,4 @@
-static: <path:kv-v2/data/demo#data#6>
+image:
+  repository: quay.io/bitnami/nginx
+serviceAccount:
+  name: <path:kv-v2/data/demo#data#6>
