@@ -2,4 +2,4 @@ samplechart:
   image:
     repository: quay.io/bitnami/nginx
   serviceAccount:
-    name: <path:kv-v2/data/demo#sa#6>
+    name: <path:kv-v2/data/demo#password#6>
