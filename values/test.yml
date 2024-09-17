@@ -23,4 +23,4 @@ ingressroute:
     - websecure
   middlewares:
     - name: forwardauth-authorize
-      namespace: forwardauth
+      namespace: sandbox
