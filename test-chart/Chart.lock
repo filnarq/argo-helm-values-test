@@ -1,0 +1,6 @@
+dependencies:
+- name: samplechart
+  repository: https://charts.openshift.io/
+  version: 0.1.2
+digest: sha256:84abea7e5de4cd0308c4f64ccb8ad2598ea41888309748521ec5fffdd714d752
+generated: "2024-09-18T11:36:59.632692473+03:00"
