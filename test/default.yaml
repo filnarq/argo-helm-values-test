@@ -1,6 +1,5 @@
-samplechart:
-  image:
-    repository: docker.io/nginx
-    tag: "1.27"
-  serviceAccount:
-    name: "sa-name-default"
+image:
+  repository: docker.io/nginx
+  tag: "1.27"
+serviceAccount:
+  name: "sa-name-default"
