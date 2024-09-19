@@ -1,0 +1,18 @@
+annotations:
+  charts.openshift.io/archs: x86_64
+  charts.openshift.io/digest: sha256:4abe3a57dcc5865e006b8165507a06b4f165b282a53afb3060a1ff0733c4f2dd
+  charts.openshift.io/lastCertifiedTimestamp: "2024-05-23T12:11:01.492121+00:00"
+  charts.openshift.io/name: RedHat Test
+  charts.openshift.io/provider: Fredco
+  charts.openshift.io/providerType: partner
+  charts.openshift.io/supportURL: https://github.com/dperaza4dustbit/helm-chart
+  charts.openshift.io/supportedOpenShiftVersions: '>=4.7'
+  charts.openshift.io/testedOpenShiftVersion: 4.15.14
+apiVersion: v2
+appVersion: 1-42
+description: A Helm chart for Kubernetes
+icon: https://www.example.com/chart-icon.png
+kubeVersion: '>=1.20.0'
+name: samplechart
+type: application
+version: 0.1.2
